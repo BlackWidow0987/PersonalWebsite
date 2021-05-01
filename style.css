@@ -1,0 +1,25 @@
+body {
+    background-color: cornsilk;
+    text-decoration-color: aquamarine;
+    text-align: center;
+    margin: 25px;
+}
+
+h1 {
+    text-decoration-color: cornflowerblue;
+    font-family: 'Original Surfer', cursive;
+    text-align: center;
+    color: #5effc9;
+}
+
+img {
+    border-style: groove;
+    border-color: darkviolet;
+    border-radius: 20%;
+}
+
+p {
+    color:  deepskyblue;
+    font-family: 'Freckle Face', cursive;
+    
+}
